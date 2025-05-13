@@ -1,16 +1,25 @@
 # 👋 Welcome to Little Genius Development!
 
-🚀 A subsidiary of the **Little Genius Group of Companies**, we focus on building:
-- Creative book publishing tools 📚
-- Premium websites and mobile apps 💻📱
-- Seamless checkout and payment solutions 💳
+We are a subsidiary of the **Little Genius Group of Companies**, committed to creating high-quality, technically advanced software solutions.
 
-## 📌 Projects We're Working On
-- 📘 Little Genius Bookstore
-- 🛒 Cashfree Checkout Integration
-- 🧠 Creative Writing Tools for Kids
+## 📱 What We Do
 
-## 🌐 Learn More
-📧 Contact: littlegeniusgroupofcompanies@gmail.com
+🚀 We specialize in:
+- Developing modern and powerful **Android apps**
+- Creating **high-performance software** for daily productivity
+- Building **secure, scalable, and user-friendly** digital solutions
 
-> Building tools that empower the next generation of geniuses.
+## 💡 Our Mission
+
+To simplify life through innovation — by building smart, reliable, and meaningful technology that empowers users of all ages.
+
+## 🔧 Tech Stack & Skills
+
+- **Languages**: Java, Kotlin, Python, JavaScript
+- **Tools**: Android Studio, Git, Firebase, MySQL
+- **Platforms**: Android, Web
+- **Focus**: Performance, UI/UX, Clean Code, and Stability
+
+---
+
+> Follow us to see how we're changing the future with tech!
