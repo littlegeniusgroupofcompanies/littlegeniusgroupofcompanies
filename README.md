@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Welcome to Little Genius Development!
 
-<!--
-**littlegeniusgroupofcompanies/littlegeniusgroupofcompanies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A subsidiary of the **Little Genius Group of Companies**, we focus on building:
+- Creative book publishing tools 📚
+- Premium websites and mobile apps 💻📱
+- Seamless checkout and payment solutions 💳
 
-Here are some ideas to get you started:
+## 📌 Projects We're Working On
+- 📘 Little Genius Bookstore
+- 🛒 Cashfree Checkout Integration
+- 🧠 Creative Writing Tools for Kids
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Learn More
+📧 Contact: littlegeniusgroupofcompanies@gmail.com
+
+> Building tools that empower the next generation of geniuses.
