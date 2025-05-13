@@ -50,7 +50,7 @@ To simplify life through innovation — by building smart, reliable, and meaning
 
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=littlegeniusgroupofcompanies&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=littlegeniusgroupofcompanies&theme=algolia)
 
 ---
 
